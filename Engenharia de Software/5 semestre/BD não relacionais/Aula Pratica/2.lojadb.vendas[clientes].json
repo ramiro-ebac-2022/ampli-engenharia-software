@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "655fec49dcf828c4d49fd89a"
+  },
+  "nome": "João",
+  "cliente_vip": 1,
+  "email": "joao@email.com",
+  "telefone": [
+    "9999-1111",
+    "8888-1111"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655fec49dcf828c4d49fd89b"
+  },
+  "nome": "Marcos",
+  "cliente_vip": 0,
+  "telefone": [
+    "9999-3333"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655fec49dcf828c4d49fd89c"
+  },
+  "nome": "Maria",
+  "cliente_vip": 1,
+  "email": "maria@email.com",
+  "telefone": [
+    "9999-2222",
+    "8888-3333",
+    "9988-0000"
+  ]
+}]

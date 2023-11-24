@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "655fec49dcf828c4d49fd89a"
+  },
+  "nome": "João",
+  "cliente_vip": 1,
+  "email": "joao@email.com",
+  "telefone": [
+    "9999-1111",
+    "8888-1111"
+  ],
+  "Endereço": "Rua Um, 1000, Apto 1 Bloco 1. São Paulo/SP",
+  "Compras": [
+    {
+      "Nome do Produto": "Notebook",
+      "Preço": 5000,
+      "Quantidade": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655fec49dcf828c4d49fd89b"
+  },
+  "nome": "Marcos",
+  "cliente_vip": 0,
+  "telefone": [
+    "9999-3333"
+  ],
+  "Endereço": "Rua Dois, 4000. Campinas/SP",
+  "Compras": [
+    {
+      "Nome do Produto": "Caderno",
+      "Preço": 20,
+      "Quantidade": 1
+    },
+    {
+      "Nome do Produto": "Caneta",
+      "Preço": 3,
+      "Quantidade": 5
+    },
+    {
+      "Nome do Produto": "Borracha",
+      "Preço": 2,
+      "Quantidade": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655fec49dcf828c4d49fd89c"
+  },
+  "nome": "Maria",
+  "cliente_vip": 1,
+  "email": "maria@email.com",
+  "telefone": [
+    "9999-2222",
+    "8888-3333",
+    "9988-0000"
+  ],
+  "Endereço": "Rua Três, 3000. Londrina/PR",
+  "Compras": [
+    {
+      "Nome do Produto": "Tablet",
+      "Preço": 2500,
+      "Quantidade": 1
+    },
+    {
+      "Nome do Produto": "Capa para Tablet",
+      "Preço": 50,
+      "Quantidade": 1
+    }
+  ]
+}]
